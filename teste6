@@ -1,0 +1,12 @@
+main{
+	var teste;
+	teste := 12;
+	var flag := true;
+	if(flag == true)
+	{
+		while(teste > 10)
+			teste := teste - 1;
+	}
+	flag := false;
+	return false;
+}
